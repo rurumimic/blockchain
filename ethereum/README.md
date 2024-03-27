@@ -1,6 +1,13 @@
 # Ethereum
 
 - [ethereum.org](https://ethereum.org/)
+- [solidity](https://soliditylang.org/)
+
+## Ether
+
+- ETH, Ξ Xi U+039E, ♦ U+2666
+- wei, babbage, lovelace, shannon, szabo, finney, ether, grand
+- ether = 10<sup>18</sup> wei
 
 ## References
 
