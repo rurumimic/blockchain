@@ -13,6 +13,7 @@
 
 ### Papers
 
+- [whitepaper](https://ethereum.org/en/whitepaper/)
 - [yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 - [beigepaper](https://github.com/chronaeon/beigepaper)
 
