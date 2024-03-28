@@ -2,6 +2,7 @@
 
 - [ethereum.org](https://ethereum.org/)
 - [solidity](https://soliditylang.org/)
+- [vyper](https://vyperlang.org/)
 
 ## Ether
 
